@@ -21,7 +21,7 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
   neovim
 # -- Fonts,Icons,Cursors,Themes -- ##
 
-  #fonts yay -S ttf-hack-nerd ttf-terminus-nerd ttf-jetbrains-mono-nerd ttf-firacode-nerd ttf-victor-mono-nerd ttf-material-design-icons ttf-font-awesome powerline-fonts-git
+  #fonts yay -S ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-hack-nerd ttf-terminus-nerd ttf-jetbrains-mono-nerd ttf-firacode-nerd ttf-victor-mono-nerd ttf-material-design-icons ttf-font-awesome powerline-fonts-git
 
 
 # -- GUI -- #
