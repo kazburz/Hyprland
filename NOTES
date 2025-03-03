@@ -13,6 +13,7 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
   grimblast
 # -- CLI -- #
   git
+  starship
   fzf
   tldr
   btop
