@@ -4,14 +4,19 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
 
 
 # -- Hyprland -- #
-  sww
-  pywal
-  colorthief
-  hyprlock
-  hypridle
-  swaync
-  grimblast
-  yay -S aylurs-gtk-shell # or aylurs-gtk-shell-git
+  Hyprland core package
+  Hyprpaper + pywal16 + colorthief
+  Hypridle
+  !! Get more info on their new nc daemon
+# -- Main Packages -- #
+  kitty
+  waybar
+  wofi
+  nwg-look
+  thunar
+  gedit
+  vscode
+  
 # -- CLI -- #
   git
   starship
@@ -24,17 +29,9 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
 # -- Fonts,Icons,Cursors,Themes -- ##
 
   #fonts yay -S ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-hack-nerd ttf-terminus-nerd ttf-jetbrains-mono-nerd ttf-firacode-nerd ttf-victor-mono-nerd ttf-material-design-icons ttf-font-awesome powerline-fonts-git
-    Hack Nerd Font (modern coding font)
- Hack Nerd Font (modern coding font)
-Terminus Nerd Font (old-school terminal look)
-JetBrains Mono Nerd (great for coding)
-Fira Code Nerd (popular coding font with ligatures)
-Victor Mono Nerd (another popular coding font)
-Material Design Icons (icon font)
-Font Awesome (another popular icon font)
-Powerline Fonts (for beautiful terminal prompts)
-# -- GUI -- #
-  firefox
+  #cursors yay -S bibata-cursor-theme
+  #icons yay -S reversal-icon-theme-git
+
 
 
 
