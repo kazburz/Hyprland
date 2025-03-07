@@ -18,7 +18,6 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
   vscode
   
 # -- CLI -- #
-  git
   starship
   fzf
   tldr
@@ -30,7 +29,8 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
 
   #fonts yay -S ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-hack-nerd ttf-terminus-nerd ttf-jetbrains-mono-nerd ttf-firacode-nerd ttf-victor-mono-nerd ttf-material-design-icons ttf-font-awesome powerline-fonts-git
   #cursors yay -S bibata-cursor-theme
-  #icons yay -S reversal-icon-theme-git
+  #icons yay -S 
+  #gtk-theme yay -S WhiteSur-gtk-theme
 
 
 
